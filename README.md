@@ -1,2 +1,2 @@
 # Youtuber Latest Video
-Watch tutorial at [Youtube](https://nodesource.com/products/nsolid)
+Watch tutorial at [Youtube](https://www.youtube.com)
